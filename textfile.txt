@@ -1,0 +1,5 @@
+C:\Program Files\Python311
+
+C:\Program Files\Python311\Scripts
+
+https://colab.research.google.com/drive/1Mmwh3ME_jJ2dMOu0uWtADJL6xPks5PHp#scrollTo=Uq46pt3CTfb1
